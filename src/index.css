@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.App{
+  margin: 310px;
+  font-size: 90px;
+}
+
+button{
+  padding: 20px 55px 20px 55px;  
+  border-radius: 8px;
+  margin: 16px;
+  border: none;
+  color: white;
+  font-size: 40px;
+  box-shadow: rgba(0, 0, 0, .4) 0px 2px 2px ;
+  cursor: pointer; 
+}
+
+.decreaseBtn{
+  background-color: #ff0000;
+}
+
+.increaseBtn{
+  background-color: #3388ff;
+}
+
